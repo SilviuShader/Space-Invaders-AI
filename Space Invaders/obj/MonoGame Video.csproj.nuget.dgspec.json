@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/silviu/Documents/Visual Studio Code/Space Invaders/MonoGame Video.csproj": {}
+  },
+  "projects": {
+    "/home/silviu/Documents/Visual Studio Code/Space Invaders/MonoGame Video.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/silviu/Documents/Visual Studio Code/Space Invaders/MonoGame Video.csproj",
+        "projectName": "MonoGame Video",
+        "projectPath": "/home/silviu/Documents/Visual Studio Code/Space Invaders/MonoGame Video.csproj",
+        "packagesPath": "/home/silviu/.nuget/packages/",
+        "outputPath": "/home/silviu/Documents/Visual Studio Code/Space Invaders/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/silviu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MonoGame.Content.Builder": {
+              "target": "Package",
+              "version": "[3.7.0.4, )"
+            },
+            "MonoGame.Framework.DesktopGL.Core": {
+              "target": "Package",
+              "version": "[3.7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

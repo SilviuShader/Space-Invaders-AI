@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Alien1.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Alien2.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Alien3.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Alien4.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Alien5.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Alien6.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Block.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Bullet.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Castle.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/logo3.png</File>
+    <File>/home/silviu/Documents/Visual Studio Code/Space Invaders/Content/Player.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

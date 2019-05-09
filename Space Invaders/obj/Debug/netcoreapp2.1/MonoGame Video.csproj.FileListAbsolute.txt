@@ -1,0 +1,35 @@
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.deps.json
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.runtimeconfig.json
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.runtimeconfig.dev.json
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.dll
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/MonoGame Video.pdb
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.csprojAssemblyReference.cache
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.csproj.CoreCompileInputs.cache
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.AssemblyInfoInputs.cache
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.AssemblyInfo.cs
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.dll
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/obj/Debug/netcoreapp2.1/MonoGame Video.pdb
+/home/silviu/Documents/Visual Studio Code/MonoGame Video/bin/Debug/netcoreapp2.1/Content/logo3.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/logo3.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/MonoGame Video.deps.json
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/MonoGame Video.runtimeconfig.json
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/MonoGame Video.runtimeconfig.dev.json
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/MonoGame Video.dll
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/MonoGame Video.pdb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/obj/Debug/netcoreapp2.1/MonoGame Video.csprojAssemblyReference.cache
+/home/silviu/Documents/Visual Studio Code/Space Invaders/obj/Debug/netcoreapp2.1/MonoGame Video.csproj.CoreCompileInputs.cache
+/home/silviu/Documents/Visual Studio Code/Space Invaders/obj/Debug/netcoreapp2.1/MonoGame Video.AssemblyInfoInputs.cache
+/home/silviu/Documents/Visual Studio Code/Space Invaders/obj/Debug/netcoreapp2.1/MonoGame Video.AssemblyInfo.cs
+/home/silviu/Documents/Visual Studio Code/Space Invaders/obj/Debug/netcoreapp2.1/MonoGame Video.dll
+/home/silviu/Documents/Visual Studio Code/Space Invaders/obj/Debug/netcoreapp2.1/MonoGame Video.pdb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Player.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Bullet.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Alien1.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Block.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Castle.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/aliens.txt
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Alien2.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Alien3.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Alien5.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Alien4.xnb
+/home/silviu/Documents/Visual Studio Code/Space Invaders/bin/Debug/netcoreapp2.1/Content/Alien6.xnb
